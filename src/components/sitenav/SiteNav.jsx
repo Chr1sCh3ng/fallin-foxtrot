@@ -1,5 +1,6 @@
 import React from "react";
 import { Link } from "react-router-dom";
+import RequestHelp from "../modal/RequestHelp";
 
 function SiteNav() {
   return (
@@ -51,12 +52,10 @@ function SiteNav() {
                   Options
                 </a>
                 <div className="dropdown-menu" aria-labelledby="navbarDropdown">
-                  <a className="dropdown-item" href="/MittsAndDice">
-                    Request help
-                  </a>
+                  <RequestHelp></RequestHelp>
                   <div className="dropdown-divider"></div>
-                  <a className="dropdown-item" href="/whiteelephanttwist">
-                    Connect
+                  <a className="dropdown-item" href="/mission">
+                    Mission
                   </a>
                 </div>
               </li>
