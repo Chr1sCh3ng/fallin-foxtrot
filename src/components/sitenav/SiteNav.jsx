@@ -32,7 +32,7 @@ function SiteNav() {
               </li>
               <li className="nav-item">
                 <Link
-                  to="/DailyUpdate"
+                  to="dailyUpdate"
                   className="nav-link px-2 text-white link-button"
                 >
                   Daily Update

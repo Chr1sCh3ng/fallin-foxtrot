@@ -1,0 +1,38 @@
+.login-image {
+    background-image: url('../../../public/images/chang-duong-Sj0iMtq_Z4w-unsplash.jpg');
+    background-size: cover;
+    background-position: center;
+    min-height: 100vh;
+    background-color: transparent; 
+}
+
+.register-image {
+    background-image: url('../../../public/images/mark-koch-KiRlN3jjVNU-unsplash.jpg');
+    background-size: cover;
+    background-position: center;
+    min-height: 100vh;
+    background-color: transparent;
+}
+
+.daily-image {
+    background-image: url('../../../public/images/cristina-anne-costello-UXrnQExTbIc-unsplash.jpg');
+    background-size: cover;
+    background-position: center;
+    min-height: 100vh;
+    background-color: transparent;
+}
+
+.input-field {
+    background-color: rgba(255, 255, 255, 0.5); 
+    padding: 20px;
+    max-width: 400px;
+    margin: 0 auto;
+}
+
+
+.has-error{
+    width: 100%;
+    margin-top: 0.25rem;
+    font-size: 90%;
+    color: red
+  }
