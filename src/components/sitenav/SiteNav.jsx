@@ -63,7 +63,7 @@ function SiteNav() {
           </div>
           <div className="text-end">
             <a
-              href="/"
+              href="/profile"
               className="align-items-center mb-2 me-2 mb-lg-0 text-white text-decoration-none"
             >
               User

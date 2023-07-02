@@ -1,4 +1,5 @@
 import React from "react";
+import Mission from "../MissionStatement";
 
 function Landing() {
   const bgZero =
@@ -24,6 +25,8 @@ function Landing() {
         </p>
         <p> Reach out for support, support when they reach out.</p>
       </div>
+
+      <Mission />
     </>
   );
 }
