@@ -19,6 +19,8 @@ function App() {
         <Route path="/login" element={<LoginPage />} />
         <Route path="/dailyUpdate" element={<DailyUpdate />} />
         <Route path="/profile" element={<ProfilePage />} />
+        <Route path="/profile" element={<ProfilePage />} />
+
         <Route path="/mission" element={<Mission />} />
       </Routes>
     </div>
