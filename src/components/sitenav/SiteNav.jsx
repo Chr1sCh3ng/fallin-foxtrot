@@ -32,7 +32,7 @@ function SiteNav() {
               </li>
               <li className="nav-item">
                 <Link
-                  to="dailyUpdate"
+                  to="/dailyUpdate"
                   className="nav-link px-2 text-white link-button"
                 >
                   Daily Update
@@ -69,13 +69,13 @@ function SiteNav() {
               User
             </a>
             <Link
-              to="login"
+              to="/login"
               type="button"
               className="btn btn-outline-light me-2"
             >
               Login
             </Link>
-            <Link to="register" className="btn btn-info">
+            <Link to="/register" className="btn btn-info">
               Register
             </Link>
           </div>
