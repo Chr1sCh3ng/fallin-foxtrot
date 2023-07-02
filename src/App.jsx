@@ -7,6 +7,7 @@ import Mission from "./components/MissionStatement";
 import LoginPage from "./components/user/Login";
 import RegisterPage from "./components/user/Register";
 import DailyUpdate from "./components/DailyUpdate";
+import ProfilePage from "./user/ProfilePage";
 
 function App() {
   return (
@@ -17,6 +18,7 @@ function App() {
         <Route path="/register" element={<RegisterPage />} />
         <Route path="/login" element={<LoginPage />} />
         <Route path="/dailyUpdate" element={<DailyUpdate />} />
+        <Route path="/profile" element={<ProfilePage />} />
         <Route path="/mission" element={<Mission />} />
       </Routes>
     </div>
