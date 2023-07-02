@@ -4,7 +4,7 @@ import * as Yup from "yup";
 import Swal from "sweetalert2";
 import "./user/formStyle.css";
 
-const RegisterPage = () => {
+const DailyUpdate = () => {
   const userData = {
     affirmation: "",
   };
@@ -128,4 +128,4 @@ const RegisterPage = () => {
   );
 };
 
-export default RegisterPage;
+export default DailyUpdate;
