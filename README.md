@@ -25,3 +25,13 @@ User-focused design via Veteran feedback
 Commitment to Innovation via Veteran feedback
 
 These unique aspects set our platform apart, making it a valuable and original resource in the landscape of mental health support for military veterans.
+
+
+## Features
+
+Peer support groups
+
+ Community outreach alerts
+
+Veteran feedback loop.
+
